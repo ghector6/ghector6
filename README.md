@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fmex1-5.fna.fbcdn.net/v/t39.30808-6/304946912_451927450288589_1269618816721098555_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=V27o4VsOvyIAX8BYRCL&_nc_ht=scontent.fmex1-5.fna&oh=00_AfAIWlklmtowME_shosWcqZ6xsLQSkSjKsxWmH2X2if9HQ&oe=63DD42C0)]()
+[![MasterHead](./Users/ghector6/Downloads/github-header-image.png)
 
 <h1 align="center">Hello there👋, I'm Hector</h1>
 <h3 align="center">A music and software lover</h3>
