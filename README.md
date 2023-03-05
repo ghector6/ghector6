@@ -1,4 +1,4 @@
-![MasterHead](/Users/ghector6/Pictures/github-header-image.png)
+![MasterHead](../../Pictures/github-header-image.png)
 
 <h1 align="center">Hello there👋, I'm Hector</h1>
 <h3 align="center">A music and software lover</h3>
