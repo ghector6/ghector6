@@ -1,34 +1,61 @@
+<div align="center">
+<img height="150" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
+</div>
 
+###
 
-<h1 align="center">Hello there👋, I'm Hector</h1>
-<h3 align="center">A music and software lover</h3>
+<div align="center">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/ghector6" target="blank"><img src="https://img.shields.io/twitter/follow/ghector6?logo=twitter&style=for-the-badge" alt="ghector6" /></a> </p>
+###
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2719400/screenshots/5509785/media/0e8ae6e4e0b366ef6e9f6e0e2b88d774.gif">
-- 💻  I’m currently working on [MakingDevs](https://www.makingdevs.com/)
+<h1 align="center">Hello there... 🌟</h1>
 
-- 💧  I’m currently learning **Elixir**
+###
 
-- 👾‍💻 All of my projects are available at [https://github.com/ghector6](https://github.com/ghector6)
+<h3 align="left">👾 My Name is Hector, <br>I'm  a classical guitar player and a software developer.</h3>
 
-- 📝 I regularly write articles on [https://ghector6.github.io/MakingDevs-Journey-Blog-/](https://ghector6.github.io/MakingDevs-Journey-Blog-/)
+###
 
-- 📫 How to reach me **hector@makingdevs.com**
+<p align="left">I'm ... from .... 🇲🇽<br><br>- 🔭 I'm currently working at [MakingDevs](https://www.makingdevs.com/)<br><br>- ⚡ In my free time I love to play the guitar and drink a cup of good coffee.</p>
 
-- ⚡ My fav composer is: **Debussy**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ghector6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghector6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghector6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghector6" height="30" width="40" /></a>
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a><a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghector6&show_icons=true&locale=en&layout=compact" alt="ghector6" /></p>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghector6&show_icons=true&locale=en" alt="ghector6" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghector6&" alt="ghector6" /></p>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
