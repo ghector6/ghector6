@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left">I'm ... from .... 🇲🇽<br><br>- 🔭 I'm currently working at [MakingDevs](https://www.makingdevs.com/)<br><br>- ⚡ In my free time I love to play the guitar and drink a cup of good coffee.</p>
+<p align="left">I'm ... from .... 🇲🇽<br><br>- 🔭 I'm currently working <a href="https://www.makingdevs.com/">MakingDevs</a>
+<br><br>- ⚡ In my free time I love to play the guitar and drink a cup of good coffee.</p>
 
 ###
 
