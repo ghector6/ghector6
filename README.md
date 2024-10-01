@@ -5,8 +5,6 @@
 ###
 
 <div align="center">
-<img src="https://www.linkedin.com/in/ghector6/" height="25" alt="linkedin logo"  />
-<img src="https://x.com/GHector6" height="25" alt="twitter logo"  />
 </div>
 
 ###
