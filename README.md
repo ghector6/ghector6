@@ -1,56 +1,107 @@
-<div align="center">
-<img height="150" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
-</div>
+<H1 align="center"> Hello There! ✌🏼 </H1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Software+Engineer;Musician;Continuous+Learner;Coffee+Powered+Developer;Turning+Knowledge+into+Impact" alt="Typing SVG" />
+</p>
 
-<div align="center">
-</div>
+<p align="center">
+  <a href="https://github.com/ghector6">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ghector6/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ghectormus@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
-###
 
-<h1 align="center">Hello there... 🌟</h1>
+<p align="center">
+<em> Driven by curiosity, continuous learning, and the belief that knowledge is most valuable when applied.</em>
+</p>
 
-###
+```java
+public class HectorGarcia extends ContinuousLearner
+        implements SoftwareEngineer, Musician {
 
-<h3 align="left">👾 My Name is Hector, <br>I'm  a classical guitar player and a software developer.</h3>
+    private final String primaryLanguage =
+            "Java";
 
-###
+    private final String currentFocus =
+            "Backend Engineering";
 
-<p align="left">I'm ... from .... 🇲🇽<br><br>- 🔭 I'm currently working <a href="https://www.makingdevs.com/">MakingDevs</a>
-<br><br>- ⚡ In my free time I love to play the guitar and drink a cup of good coffee.</p>
+    private final String currentlyLearning =
+            "Data Engineering";
 
-###
+    private final String currentlyWorkingOn =
+            "Improving system design and software architecture skills";
 
-<h3 align="left">🛠 Language and tools</h3>
+    private final boolean poweredByCoffee = true;
 
-###
+    private final List<String> interests = List.of(
+            "Software Engineering",
+            "Data Analysis",
+            "Music"
+    );
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
-<img width="12" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+    public void build() {
+        learn();
+        design();
+        develop();
+        improve();
+    }
+}
+```
 
-###
+## Tech Stack
 
-<h3 align="left">🔥   My Stats :</h3>
+### Languages
 
-###
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square\&logo=springboot)
+
+### Data
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square\&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square\&logo=powerbi)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square\&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github)
+
+---
+
+## Featured Projects
+
+| Project                | Preview | Description                                             | Tech              |
+| ---------------------- | ------- | ------------------------------------------------------- | ----------------- |
+| Full Stack Application | 🖼️     | Enterprise-grade application placeholder                | Java, Spring Boot |
+| Data Dashboard         | 🖼️     | Analytics and business intelligence project placeholder | Power BI, Python  |
+| Music Related Project  | 🖼️     | Music and technology project placeholder                | TBD               |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghector6&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=ghector6&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+* GitHub: `@ghector6`
+* LinkedIn: `linkedin.com/in/ghector6`
+* Email: `ghectormus@gmail.com`
